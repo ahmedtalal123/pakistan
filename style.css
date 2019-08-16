@@ -1,0 +1,46 @@
+h1,h2{
+    color: black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    background-color: rgba(237, 167, 147, 0.3);
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+}
+
+#p1{
+    text-align: center;
+    color: black;
+}
+
+header{
+    background-image: url(http://www.wishesquotesimages.com/wp-content/uploads/2019/07/happy-independence-day-pakistan-image-1024x576.jpg);
+    background-repeat: no-repeat;
+    width: 700px;
+    padding: 300px;
+}
+
+h3{
+    text-align: center;
+    background-color: w;
+}
+
+footer{
+    text-align: center;
+    background-color: blue;
+}
+
+#div3{
+    text-align: center;
+    background-color: rgba(237, 167, 147, 0.3);
+}
+
+#div5{
+    text-align: center;
+    background-color: rgba(237, 167, 147, 0.3)
+}
